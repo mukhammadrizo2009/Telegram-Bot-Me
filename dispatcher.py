@@ -10,7 +10,7 @@ from menu_en import remove_keyboard_en , menu_handler_en , our_info_en , send_id
 from contact_ru import contact_ru , contact_handler_ru
 from moy_zakas import my_order_ru
 from menu_ru import remove_keyboard_ru , menu_handler_ru , our_info_ru , send_idea_ru , settings_handler_ru
-from choose import common_contact_handler
+
 
 
 def main() -> None:
